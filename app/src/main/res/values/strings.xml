@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ProviderDemo</string>
+    <string name="text_add">添加</string>
+    <string name="text_del">删除</string>
+    <string name="text_upd">修改</string>
+    <string name="text_query">查询</string>
+</resources>
